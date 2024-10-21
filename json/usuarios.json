@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "usuario": "Ojeda",
+        "contrase\u00f1a": "1234",
+        "rol": "admin"
+    },
+    {
+        "id": 2,
+        "usuario": "Gonzalo",
+        "contrase\u00f1a": "1234",
+        "correo": "troelosxddd@gmail.com",
+        "rol": "usuario"
+    },
+    {
+        "usuario": "Profesor",
+        "contrase\u00f1a": "1234",
+        "rol": "admin"
+    },
+    {
+        "usuario": "Ejemplo",
+        "contrase\u00f1a": "1234",
+        "rol": "usuario"
+    },
+    {
+        "usuario": "ejemploadmin",
+        "contrase\u00f1a": "1234",
+        "rol": "admin"
+    }
+]

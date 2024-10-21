@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(to right, #74ebd5, #9face6);
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #007bff; /* Color azul */
+}
+
+h3 {
+    margin-top: 20px;
+    color: #0056b3; /* Color azul oscuro */
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.table {
+    background-color: #fff; /* Color de fondo de la tabla */
+    border-radius: 8px;
+}
+
+.table th {
+    background-color: #007bff; /* Color azul para encabezados de la tabla */
+    color: #fff;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e7f1ff; /* Color azul claro para filas en hover */
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+.btn-info {
+    background-color: #17a2b8; /* Color para botones de información */
+}
+
+.btn-info:hover {
+    background-color: #138496; /* Color más oscuro al pasar el mouse */
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}

@@ -1,0 +1,162 @@
+[
+    {
+        "id": 3,
+        "nombre": "Proyecto gestion de tareas",
+        "estado": "finalizado",
+        "usuario_id": "2",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "Comprar patatas",
+                "finalizada": true
+            },
+            {
+                "id": 2,
+                "descripcion": "terea 1",
+                "finalizada": true
+            },
+            {
+                "id": 2,
+                "descripcion": "terea 1",
+                "finalizada": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "proyecto 3",
+        "estado": "finalizado",
+        "usuario_id": "2",
+        "fecha_limite": "2027-12-20",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2027-12-20",
+                "finalizada": true
+            },
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2027-12-20",
+                "finalizada": true
+            },
+            {
+                "id": 3,
+                "descripcion": "Ir al mercado",
+                "finalizada": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "proyecto 4",
+        "usuario_id": "2",
+        "fecha_limite": "2028-08-05",
+        "estado": "finalizado",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2028-03-24",
+                "finalizada": true
+            },
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2028-03-24",
+                "finalizada": true
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "proyecto 5",
+        "usuario_id": "2",
+        "fecha_limite": "2029-08-07",
+        "estado": "finalizado",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2028-08-05",
+                "finalizada": true
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "proyecto correo",
+        "usuario_id": "2",
+        "fecha_limite": "2029-07-09",
+        "estado": "finalizado",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2028-07-09",
+                "finalizada": true
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Proyecto correo2",
+        "usuario_id": "2",
+        "fecha_limite": "2027-04-04",
+        "estado": "En Proceso",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2028-04-04",
+                "finalizada": true
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Proyecto correo3",
+        "usuario_id": "2",
+        "fecha_limite": "2028-08-08",
+        "estado": "finalizado",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "terea 1",
+                "fecha_limite": "2028-08-08",
+                "finalizada": true
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Proyecto correo5",
+        "usuario_id": "2",
+        "fecha_limite": "4343-05-05",
+        "estado": "En Proceso",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "235423",
+                "fecha_limite": "4444-03-23",
+                "finalizada": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Proyecto 8",
+        "usuario_id": "2",
+        "fecha_limite": "2029-05-05",
+        "estado": "En Proceso",
+        "tareas": [
+            {
+                "id": 1,
+                "descripcion": "Ir al mercado",
+                "fecha_limite": "2025-05-05",
+                "finalizada": false
+            }
+        ]
+    }
+]
